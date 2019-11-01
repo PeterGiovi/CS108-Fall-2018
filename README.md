@@ -4,3 +4,4 @@ Graded Homework Projects (GHP) from my first CS college course at SUNY Polytechn
 Notes:
 These Graded Homework Projects Start off with relatively simple Assignments Such as Converting Fahrenheit into Celsius and Monthly Car Payment Calculations.
 Towards the end of the semester we were working on a basic understanding of Linked Lists and Structs.
+Code for this class was written in C
